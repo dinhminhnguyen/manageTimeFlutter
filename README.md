@@ -10,3 +10,7 @@
 - Thay đổi đường dẫn tới thư mục chứa file main.dart trên terminal sau đó chạy lệnh "flutter run"
 
 3 Demo sản phẩm
+
+![starttimer](https://user-images.githubusercontent.com/48278996/106838867-a8220f80-66cf-11eb-92c0-c395f5f140f5.png)
+
+![dura](https://user-images.githubusercontent.com/48278996/106839197-4c0bbb00-66d0-11eb-8478-fd1c8a5fc480.png)
